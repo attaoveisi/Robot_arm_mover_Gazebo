@@ -18,6 +18,11 @@ $ source devel/setup.bash
 $ rosservice call /arm_mover/safe_move "joint_1: 0.0 joint_2: 0.0"
 ```
 
+sevice calls are another way of communication between multiple nodes in a ROS architecture as:
+
+
+![]()
+
 ## How to view image stream from the camera?
 Camera image stream is published to the following topic:
 ```
@@ -30,7 +35,7 @@ $ rosrun image_view image_view image:=/rgb_camera/image_raw
 ```
 
 
-## Gazebo explained:
+## Gazebo explained shortly:
 
 **1- Gazebo Server**
 
