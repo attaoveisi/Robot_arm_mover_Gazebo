@@ -21,7 +21,8 @@ $ rosservice call /arm_mover/safe_move "joint_1: 0.0 joint_2: 0.0"
 sevice calls are another way of communication between multiple nodes in a ROS architecture as:
 
 
-![]()
+![image](https://user-images.githubusercontent.com/17289954/102627090-fa22cc00-4147-11eb-9fd2-6e6243b824a5.png)
+
 
 ## How to view image stream from the camera?
 Camera image stream is published to the following topic:
