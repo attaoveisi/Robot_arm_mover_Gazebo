@@ -2,7 +2,8 @@
 This is package for simulating the control process of a robot arm in Gazebo:
 
 ## Simulation Interface:
-![alt text](images/robot_arm.png)
+/home/atta/Downloads/robot_arm.gif
+![](images/robot_arm.gif)
 
 ## How to run stuff after `catkin_make`:
 #### Once the `simple_arm` package has been built, you can launch the simulation environment using
@@ -28,9 +29,6 @@ This stream can be viewed by following command in separate terminal:
 ```sh
 $ rosrun image_view image_view image:=/rgb_camera/image_raw
 ```
-
-
-
 
 
 ## Gazebo explained:
