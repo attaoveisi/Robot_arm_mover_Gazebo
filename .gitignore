@@ -14,12 +14,17 @@
 bin/
 gen/
 out/
+build/
+devel/
+.catkin_workspace
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
 # release/
 
 # Gradle files
 .gradle/
 build/
+devel/
+workspace/catkin_ws/devel
 
 # Local configuration file (sdk path, etc)
 local.properties
