@@ -23,6 +23,8 @@ sevice calls are another way of communication between multiple nodes in a ROS ar
 
 ![image](https://user-images.githubusercontent.com/17289954/102627090-fa22cc00-4147-11eb-9fd2-6e6243b824a5.png)
 
+![til](https://media.giphy.com/media/1jtptu52dLplmJ9iQd/giphy.gif)
+
 
 ## How to view image stream from the camera?
 Camera image stream is published to the following topic:
