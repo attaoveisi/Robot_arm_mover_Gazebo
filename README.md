@@ -2,7 +2,6 @@
 This is package for simulating the control process of a robot arm in Gazebo:
 
 ## Simulation Interface:
-/home/atta/Downloads/robot_arm.gif
 ![til](https://media.giphy.com/media/RLBqLdZaBfq2SPqW8R/giphy.gif)
 
 ## How to run stuff after `catkin_make`:
